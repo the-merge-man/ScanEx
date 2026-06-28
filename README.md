@@ -1,5 +1,5 @@
-## ScanEx
-# Island Harvest Automated Document Intake Pipeline
+# ScanEx
+## Island Harvest Automated Document Intake Pipeline
 
 An automated data pipeline designed to scan, analyze, and upload community relief intake forms directly into an organized Excel database format from a physical paper copy.
 
