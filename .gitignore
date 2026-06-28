@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Island Harvest Specific Data / Outputs
+data/*.txt
+data/*.xlsx
+!data/.gitkeep
+
+
