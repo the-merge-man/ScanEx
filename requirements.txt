@@ -1,2 +1,2 @@
-pytesseract, pdf2image, openpyxl, fastapi, pillow
+pytesseract, os,  pdf2image, openpyxl, fastapi, pillow
 
